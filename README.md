@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact I like talking about tech
 
-📝️ When motivated enough, I do some writing on my [personal blog](https://hultechnews.blogspot.com/) 
-
-#### Connect with me if you have some exciting projects:
+#### Get in Touch:
 
 Email: [lulemoses67@gmail.com](mailto:lulemoses67@gmail.com)
 
@@ -32,5 +30,6 @@ Blog: [https://hultechnews.blogspot.com](https://hultechnews.blogspot.com)
 
 LinkedIn: [https://www.linkedin.com/in/lulemoes67](https://www.linkedin.com/in/lulemoes67)
 
+CodePen: [https://codepen.io/lulemoses/pens/public](https://codepen.io/lulemoses/pens/public)
 
 Instagram: [lulemoses](https://twitter.com/lulemoses67)
