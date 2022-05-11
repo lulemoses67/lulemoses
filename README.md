@@ -27,8 +27,6 @@ Email: [lulemoses67@gmail.com](mailto:lulemoses67@gmail.com)
 
 Personal Website: [https://lulemoses67.github.io/lulemoses.github.io/](https://lulemoses67.github.io/lulemoses.github.io/)
 
-Blog: [https://medium.com/@lulemoses67](https://medium.com/@lulemoses67)
-
 LinkedIn: [https://www.linkedin.com/in/lulemoes67](https://www.linkedin.com/in/lulemoes67)
 
 CodePen: [https://codepen.io/lulemoses/pens/public](https://codepen.io/lulemoses/pens/public)
